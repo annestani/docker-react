@@ -19,7 +19,7 @@ deploy:
   bucket_name: "elasticbeanstalk-eu-west-1-374915934591"
   bucket_path: "docker-react"
   on: 
-    branch: masetr
+    branch: master
 
 
 
