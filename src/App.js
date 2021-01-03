@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>Welcome to React- change again    
+        <p>Changes for AWS feature Welcome to React- change again    
         </p>
         <a
           className="App-link"
